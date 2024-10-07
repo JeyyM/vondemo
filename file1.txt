@@ -1,0 +1,21 @@
+change in file 1
+change A
+change B
+
+i implemented a new feature
+this is not in the original code
+
+change made
+
+git add .
+git commit .
+
+git log 
+git log --oneline
+
+git branch newbranch
+git switch newbranch
+
+git merge <target> (sitting in the branch you want modified)
+
+git clone <link>
