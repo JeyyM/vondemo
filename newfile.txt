@@ -1,6 +1,7 @@
-hello
+i added something new
 
-new change here
+hi hello world
 
 someone elses code was wrong, i modified at my device
 
+i made a change ing branch 2
