@@ -2,4 +2,5 @@ hello
 
 new change here
 
-someone else made progress
+someone elses code was wrong, i modified at my device
+
