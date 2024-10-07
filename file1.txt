@@ -1,2 +1,3 @@
 change in file 1
 change A
+change B
